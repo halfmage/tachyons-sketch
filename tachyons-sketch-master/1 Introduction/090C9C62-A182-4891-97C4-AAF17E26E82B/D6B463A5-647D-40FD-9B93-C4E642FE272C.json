@@ -1,0 +1,54 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbG1YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIi0wNjo+RkdISUpOUlNbX2NmaFUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA18QD0EgbW9kdWxhciBzY2FsZdMREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiADIAUgBWAGV8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlVk5TS2VybldOU0NvbG9y1iMkJSYKJygpKiksKlpOU1RhYlN0b3BzW05TVGV4dExpc3RzXxAPTlNNaW5MaW5lSGVpZ2h0XE5TVGV4dEJsb2Nrc18QD05TTWF4TGluZUhlaWdodIAAgAkjQDgAAAAAAACACYAL0hIKLi+ggArSMTIzNFokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiMzVYTlNPYmplY3TSMTI3OF8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlozc5NV8QEE5TUGFyYWdyYXBoU3R5bGXSCjs8PV8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBOADdMREgo/QkWiQEGADoAPokNEgBCAEYASXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDAAAAAAAABdSGVsdmV0aWNhTmV1ZdIxMktMXxATTlNNdXRhYmxlRGljdGlvbmFyeaNLTTVcTlNEaWN0aW9uYXJ50jEyT1BfEBBOU0ZvbnREZXNjcmlwdG9yolE1XxAQTlNGb250RGVzY3JpcHRvchAA1FRVVgpXWFlaVU5TUkdCXE5TQ29sb3JTcGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZU8QKjAuMDY2NjY2NjY2NjcgMC4wNjY2NjY2NjY2NyAwLjA2NjY2NjY2NjY3ABABgBaAGNJcCl1eVE5TSUQQAYAX0jEyYGFcTlNDb2xvclNwYWNlomI1XE5TQ29sb3JTcGFjZdIxMmRlV05TQ29sb3KiZDXSMTJNZ6JNNdIxMmlqXxASTlNBdHRyaWJ1dGVkU3RyaW5noms1XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0W5vVHJvb3SAAQAIABEAGgAjAC0AMgA3AFUAWwBiAGsAcgB/AIEAgwCFAJcAngCmALEAtgC4ALoAvAC+AMMAxQDHAMkAywDNAOABAgEJAREBHgEpATUBRwFUAWYBaAFqAXMBdQF3AXwBfQF/AYQBjwGYAaABowGsAbEBywHPAeIB5wIEAgYCCAIPAhICFAIWAhkCGwIdAh8CNQJLAlQCYgJnAn0CgQKOApMCpgKpArwCvgLHAs0C2gLvAxwDHgMgAyIDJwMsAy4DMAM1A0IDRQNSA1cDXwNiA2cDagNvA4QDhwOcA64DsQO2AAAAAAAAAgEAAAAAAAAAcAAAAAAAAAAAAAAAAAAAA7g="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "D6B463A5-647D-40FD-9B93-C4E642FE272C",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 116,
+    "x": 1962,
+    "y": 964
+  },
+  "glyphBounds": "{{-1, 6}, {116, 13}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "A modular scale",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "A12809B0-8A39-4AD6-8327-278E94072AEE"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
+}

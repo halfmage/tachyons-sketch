@@ -1,0 +1,132 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "9CBBA36F-C7B3-40E6-8E7C-10CA5DA1EB93",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1024,
+    "width": 1024,
+    "x": 1084,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "7E70B016-205B-4143-863F-3DAD356EF592"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D5384C4F-DF6B-415E-A339-5F0BC90B50C1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ACA64111-0CA4-4A5A-8407-9C8B3E286246"
+    },
+    {
+      "class": "group",
+      "id": "80D02088-4422-4E7B-84FF-7508220509BF"
+    },
+    {
+      "class": "group",
+      "id": "F78946B1-6BF8-453A-BB42-0CC317EA095F"
+    },
+    {
+      "class": "group",
+      "id": "9B4E275D-86B6-457F-B484-553B4A8B2643"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8C30D235-F25B-4347-BA7B-FF1C2FE7AE30"
+    },
+    {
+      "class": "text",
+      "id": "CC7A689B-1AE3-448B-BC5C-DE337C26FD95"
+    },
+    {
+      "class": "text",
+      "id": "BB8F690D-8445-46AA-A49C-4099BC334A5B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C2C745AF-EF35-45FF-9EC3-2EE65265FB7A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "975B8715-7C8C-48F7-B16F-12555E0CDD2E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4AB5D455-8BDF-4E7F-85C5-3877C80C598C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1E206C5B-9AAD-449B-9037-7FB47C326EF1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0E08789C-5713-4833-9998-E79A0333A9F3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9E6E8487-6D83-409C-AFB0-48A5259043E5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3E445497-8968-437D-8690-258CD0DF1C90"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DC0C041D-6AD4-4023-8CCE-E07B0C4903A4"
+    }
+  ],
+  "name": "Try some stuff ❤️",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

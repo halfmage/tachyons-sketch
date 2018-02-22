@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbW5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIAcIDxAeHyAhIi0wNjo+RkdISUpOUl5fYGFiY2RlZmhpVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAH4ADXlByaW1hcnkgYnV0dG9u0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIAMgBSAHoAdXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVWTlNLZXJu1iMkJSYKJygpKiksKlpOU1RhYlN0b3BzW05TVGV4dExpc3RzXxAPTlNNaW5MaW5lSGVpZ2h0XE5TVGV4dEJsb2Nrc18QD05TTWF4TGluZUhlaWdodIAAgAkjQDgAAAAAAACACYAL0hIKLi+ggArSMTIzNFokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiMzVYTlNPYmplY3TSMTI3OF8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlozc5NV8QEE5TUGFyYWdyYXBoU3R5bGXSCjs8PV8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBOADdMREgo/QkWiQEGADoAPokNEgBCAEYASXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDAAAAAAAABfEBJIZWx2ZXRpY2FOZXVlLUJvbGTSMTJLTF8QE05TTXV0YWJsZURpY3Rpb25hcnmjS001XE5TRGljdGlvbmFyedIxMk9QXxAQTlNGb250RGVzY3JpcHRvcqJRNV8QEE5TRm9udERlc2NyaXB0b3LTERIKU1gdpFRVVleAFYAWgBeAGKRZWltcgBmAGoAbgByAHVNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/sRERERERESM/8AAAAAAAACM/sRERERERESM/sREREREREdIxMk1nok01EADSMTJqa18QEk5TQXR0cmlidXRlZFN0cmluZ6JsNV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFvcFRyb290gAEACAARABoAIwAtADIANwBaAGAAZwBwAHcAhACGAIgAigCZAKAAqACzALgAugC8AL4AwADFAMcAyQDLAM0AzwDiAQQBMQE4AUUBUAFcAW4BewGNAY8BkQGaAZwBngGjAaQBpgGrAbYBvwHHAcoB0wHYAfIB9gIJAg4CKwItAi8CNgI5AjsCPQJAAkICRAJGAlwCcgJ7ApAClQKrAq8CvALBAtQC1wLqAvEC9gL4AvoC/AL+AwMDBQMHAwkDCwMNAxEDFwMcAyIDKwM0Az0DRgNLA04DUANVA2oDbQOCA5QDlwOcAAAAAAAAAgEAAAAAAAAAcQAAAAAAAAAAAAAAAAAAA54="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "9A6AD2A9-4975-40E0-BE76-AAA7618139D5",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 114,
+    "x": 20,
+    "y": 19
+  },
+  "glyphBounds": "{{1, 7}, {112, 15}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Primary button",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "FF7B18B0-6915-4B51-8122-147455311BDF"
+  },
+  "textBehaviour": 0
+}

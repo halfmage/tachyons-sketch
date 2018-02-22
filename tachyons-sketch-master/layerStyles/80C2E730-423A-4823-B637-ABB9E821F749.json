@@ -1,0 +1,12 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "80C2E730-423A-4823-B637-ABB9E821F749",
+  "name": "bg/transparent",
+  "value": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "80C2E730-423A-4823-B637-ABB9E821F749",
+    "startDecorationType": 0
+  }
+}
